@@ -2,7 +2,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dystopia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="dysplay: flex; align-items: center; gap: 1rem; flex-wrap: wrap; text-decoration: none;"> 
+<p align="center" style="dysplay: flex; align-items: center; gap: 1rem;"> 
 <a href="https://js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
@@ -12,6 +12,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://socket.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> </a>
+</p>
+<p align="center" style="dysplay: flex; align-items: center; gap: 1rem;"> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://www.postgresql.org/docs/current/tutorial-select.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original.svg" alt="pgsql" width="40" height="40"/> </a>  
 <a href="https://redis.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
