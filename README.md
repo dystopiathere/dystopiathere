@@ -24,7 +24,9 @@
 </p>
 <hr>
 <h3 align="center">My stats:</h3>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dystopia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; align-items: center; gap: 1rem;">
