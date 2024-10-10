@@ -25,6 +25,7 @@
 <hr>
 <h3 align="center">My stats:</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dystopia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dystopia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <h3 align="center">Listening now:</h3>
