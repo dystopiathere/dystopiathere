@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="dysplay: flex; align-items: center; gap: 1rem; flex-wrap: wrap;"> 
-<a href="https://js.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
+<a href="https://js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
