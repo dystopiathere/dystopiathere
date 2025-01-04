@@ -1,5 +1,3 @@
-[![MasterHead](https://i.imgur.com/fnQS4JT.png)](https://github.com/parismay-code)
-<hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="dysplay: flex; align-items: center; gap: 1rem;"> 
 <a href="https://js.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
