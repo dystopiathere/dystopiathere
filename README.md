@@ -21,10 +21,6 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>  
 </p>
 <hr>
-<h3 align="center">My stats:</h3>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dystopia&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; align-items: center; gap: 1rem;">
